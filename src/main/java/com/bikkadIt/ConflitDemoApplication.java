@@ -10,6 +10,9 @@ public class ConflitDemoApplication {
 		SpringApplication.run(ConflitDemoApplication.class, args);
 		
 		
+
+		String Msg="good morning";
+
 		String welcomeMsg="Welcome to bikkadIt";
 	}
 
