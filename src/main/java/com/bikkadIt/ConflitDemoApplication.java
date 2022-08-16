@@ -8,6 +8,9 @@ public class ConflitDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ConflitDemoApplication.class, args);
+		
+		
+		String welcomeMsg="Welcome to bikkadIt";
 	}
 
 }
